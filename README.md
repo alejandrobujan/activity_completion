@@ -40,6 +40,10 @@ This plugin is developed and tested on Moodle Core's Boost theme and Academi the
 
 This plugin is carefully developed and thoroughly tested, but bugs and problems can always appear. We will do our best to solve problems, but please note that due to limited resources we can't always provide per-case support.
 
+## License
 
+This project is completely free software, born by and for the community under the terms of the GNU General Public License v3 of the Free Software Foundation, and always with acknowledgment of authorship and contributions.
+
+The terms are described and detailed in the [LICENSE.md](LICENSE.md) file.
 
 
