@@ -32,6 +32,7 @@ See http://docs.moodle.org/en/Installing_plugins for more details on installing 
 ## Usage
 
 After installing the plugin, it can be directly used by users and can be added to the personal dashboard. Every time an user mark an activity as done, a notification will appear in the block!
+
 ![Notifications](doc/img/notifications.png)
 
 ## Theme support
