@@ -4,7 +4,7 @@ Moodle block which displays in the personal dashboard a global history/log of th
 
 ## Requirements
 
-* Moodle 3.11+
+* [Moodle 3.11+](https://download.moodle.org/download.php/stable311/moodle-3.11.1.zip)
 * MySQL / MariaDB / PostgreSQL
 * [Custom Course Module](https://github.com/alejandrobujan/course)
 
