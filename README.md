@@ -40,6 +40,16 @@ This plugin is developed and tested on Moodle Core's Boost theme and Academi the
 
 This plugin is carefully developed and thoroughly tested, but bugs and problems can always appear. We will do our best to solve problems, but please note that due to limited resources we can't always provide per-case support.
 
+## Feature proposals
+
+Due to limited resources, the functionality of this plugin is primarily implemented for our own local needs and published as-is to the community. We are aware that members of the community will have other needs and would love to see them solved by this plugin.
+
+Please issue feature proposals on Github: https://github.com/alejandrobujan/activity_completion/issues
+
+Please create pull requests on Github: https://github.com/alejandrobujan/activity_completion/pulls
+
+We are always interested to read about your feature proposals or even get a pull request from you, but please accept that we can handle your issues only as feature proposals and not as feature requests.
+
 ## License
 
 Copyright (C) 2021  Alejandro Buján Pampín
