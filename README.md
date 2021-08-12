@@ -27,6 +27,8 @@ git clone https://github.com/alejandrobujan/activity_completion.git # Assuming y
 ```
 And then log in as admin user and go to Moodle notifications page if the installation wizard doesn't appear automatically.
 
+See http://docs.moodle.org/en/Installing_plugins for more details on installing Moodle plugins
+
 ## Usage
 
 After installing the plugin, it can be directly used by users and can be added to the personal dashboard. Every time an user mark an activity as done, a notification will appear in the block!
