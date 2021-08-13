@@ -55,7 +55,9 @@ We are always interested to read about your feature proposals or even get a pull
 
 ## License
 
-Copyright (C) 2021  Alejandro Buján Pampín
+Copyright (C) 2021  Alejandro Buján Pampín - Learnovate Centre, Trinity College Dublin
+
+![Logos](doc/img/logos.png)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
